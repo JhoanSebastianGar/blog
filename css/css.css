@@ -17,8 +17,20 @@ body{
     font-family: cursive;
     text-align: center;
 }
+<<<<<<< HEAD
 #cabecera img{
     width: 70px;
     height: 70px;
     float: left;
+=======
+footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arial";
+    color: darkblue;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 1px solid black;
+    width: 80%;
+>>>>>>> footer
 }
