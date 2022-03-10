@@ -17,3 +17,13 @@ body{
     font-family: cursive;
     text-align: center;
 }
+footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arial";
+    color: darkblue;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 1px solid black;
+    width: 80%;
+}
