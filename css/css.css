@@ -17,3 +17,8 @@ body{
     font-family: cursive;
     text-align: center;
 }
+#cabecera img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
